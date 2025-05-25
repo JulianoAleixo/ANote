@@ -92,7 +92,7 @@ export function App() {
                 </div>
             </div>
 
-            <footer className="relative bottom-0 my-3">
+            <footer className="relative bottom-0 my-8">
                 <p className="text-zinc-500 text-xl mb-2 text-center font-semibold">
                     By:{" "}
                     <a href="https://www.julianoaleixo.dev" className="hover:underline">Juliano Aleixo</a>
