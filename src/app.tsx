@@ -126,7 +126,7 @@ export function App() {
                         </svg>
                     </a>
                     <a
-                        href="https://www.instagram.com/julianuh.aleixo/?utm_medium=copy_link"
+                        href="https://www.instagram.com/juliano_aleixo_/?utm_medium=copy_link"
                         target="_blank"
                     >
                         <svg
