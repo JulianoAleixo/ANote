@@ -42,7 +42,7 @@ export function NoteCard({ note, onNoteDeleted }: NoteCardProps) {
                                 addSuffix: true,
                             })}
                         </span>
-                        <div className="overflow-auto px-5">
+                        <div className="flex-1 overflow-auto px-5">
                             <p className="text-sm leading-6 text-zinc-400">
                                 {note.content}
                             </p>
